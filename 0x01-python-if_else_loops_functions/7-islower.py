@@ -2,7 +2,7 @@
 # File: 7-islower.py
 # Auth: Musa_kalamz A Ogunsolu
 
-""" checks for lowercase character """
+"""checks for lowercase character"""
 
 def islower(c):
     """Function checks for lowercase characters."""
