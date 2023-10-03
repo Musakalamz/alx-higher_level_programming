@@ -5,4 +5,4 @@
 """ prints the ASCII alphabet, in lowercase, not followed by a new line. """
 
 for letters in range(97, 123):
-    print(f"{chr(letters)}", end="")
+    print("{}".format(chr(letters)), end="")
