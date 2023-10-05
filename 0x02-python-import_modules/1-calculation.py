@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # File: 1-calculation.py
-#Auth: Musa_kalamz A Ogunsolu
+# Auth: Musa_kalamz A Ogunsolu
 
 if __name__ == "__main__":
     """Print the sum, difference, multiple and quotient of 10 and 5."""
