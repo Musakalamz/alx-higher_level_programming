@@ -6,5 +6,5 @@
 def no_c(my_string):
     """emoves all characters c and C"""
 
-    copy = [letters for letters in my_string if letters != 'c' and letters != 'C']
+    copy = [letter for letter in my_string if letter != 'c' and letter != 'C']
     return ("".join(copy))
