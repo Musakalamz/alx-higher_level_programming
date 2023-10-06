@@ -4,7 +4,7 @@
 
 
 def no_c(my_string):
-    """emoves all characters c and C"""
+    """Removes all characters c and C"""
 
     copy = [letter for letter in my_string if letter != 'c' and letter != 'C']
     return ("".join(copy))
