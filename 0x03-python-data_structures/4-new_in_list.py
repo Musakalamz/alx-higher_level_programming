@@ -8,9 +8,11 @@ def new_in_list(my_list, idx, element):
        without modifying the original list
     """
 
-    copy = my_list.copy()
-    if idx < 0 or idx > len(my_list) - 1:
-        return my_list.copy()
-    else:
-        copy[idx] = element
-        return copy
+    if my_list:
+        copy = []
+        copy = my_list[:]
+        if idx < 0 or idx >= len(my_list):
+            return copy
+        else:
+            copy[idx] = element
+            return copy
