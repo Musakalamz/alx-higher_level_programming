@@ -4,8 +4,9 @@
 
 
 def to_subtract(list_num):
-    """Returns the difference between the maximum value in the list
-       and the sum of all values in the list that are lesser than max valu
+    """
+    Returns the difference between the maximum value in the list and th
+    sum of all values in the list that are lesser than max value
     """
 
     to_sub = 0
