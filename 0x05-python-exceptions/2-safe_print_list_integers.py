@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# File: 2-safe_print_list_integers.py 
+# File: 2-safe_print_list_integers.py
 # Auth: Musa_kalamz A Ogunsolu
 
 

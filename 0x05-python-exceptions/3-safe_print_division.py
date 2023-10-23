@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# File: 3-safe_print_division.py 
+# File: 3-safe_print_division.py
 # Auth: Musa_kalamz A Ogunsolu
 
 
