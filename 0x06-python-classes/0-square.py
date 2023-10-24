@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 # File: 0-square.py
-# Auth: Musa_kalamz A Ogunsolu
-"""Define a class Square."""
+# Auth: Musa_kalamz A Ogunsoly
+
+"""Defines a class Square."""
 
 
 class Square:
-    """Represent a square."""
+    """Represents an empty Square class."""
     pass
