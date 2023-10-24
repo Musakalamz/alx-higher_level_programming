@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-# 0-square.py
+# File: 0-square.py
+# Auth: Musa_kalamz A Ogunsolu
 """Define a class Square."""
 
 
