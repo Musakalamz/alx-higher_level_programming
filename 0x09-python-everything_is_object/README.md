@@ -305,10 +305,10 @@ c = "HBTN"
 e execution
 of the last line in this script?
 ```
-a = "HBTN"
-b = "HBTN"
+a = "SCHL"
+b = "SCHL"
 del a
 del b
-c = "HBTN"
+c = "SCHL"
 ```
 
