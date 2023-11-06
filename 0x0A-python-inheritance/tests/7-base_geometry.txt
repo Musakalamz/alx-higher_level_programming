@@ -1,5 +1,5 @@
-# File: 7-base_geometry.txt
-# Auth: Musa_kalamz A Ogunsolu
+# 7-base_geometry.txt
+# Musa_kalamz A Ogunsolu
 
 =============================
 How to Use 7-base_geometry.py
